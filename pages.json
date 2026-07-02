@@ -1,0 +1,540 @@
+[
+  {
+    "id": "home",
+    "url": "/",
+    "label": "ホーム (Home)",
+    "filename": "home-desktop.png",
+    "hotspots": [
+      {
+        "targetId": "help-about",
+        "label": "GoodWi-Fiについて",
+        "x": 487,
+        "y": 26,
+        "width": 119,
+        "height": 20,
+        "xPct": 0.3380859375,
+        "yPct": 0.0024227041993539456,
+        "wPct": 0.08297526041666667,
+        "hPct": 0.0017997231195200738
+      },
+      {
+        "targetId": "guide",
+        "label": "ご利用ガイド",
+        "x": 630,
+        "y": 26,
+        "width": 94,
+        "height": 20,
+        "xPct": 0.43772786458333335,
+        "yPct": 0.0024227041993539456,
+        "wPct": 0.06527777777777778,
+        "hPct": 0.0017997231195200738
+      },
+      {
+        "targetId": "faq",
+        "label": "よくある質問",
+        "x": 748,
+        "y": 26,
+        "width": 78,
+        "height": 20,
+        "xPct": 0.5196723090277777,
+        "yPct": 0.0024227041993539456,
+        "wPct": 0.05416666666666667,
+        "hPct": 0.0017997231195200738
+      },
+      {
+        "targetId": "cart",
+        "label": "カート",
+        "x": 1328,
+        "y": 16,
+        "width": 40,
+        "height": 40,
+        "xPct": 0.9222222222222223,
+        "yPct": 0.0014766958929395477,
+        "wPct": 0.027777777777777776,
+        "hPct": 0.0036917397323488694
+      },
+      {
+        "targetId": "mypage-login",
+        "label": "アカウント",
+        "x": 1376,
+        "y": 16,
+        "width": 40,
+        "height": 40,
+        "xPct": 0.9555555555555556,
+        "yPct": 0.0014766958929395477,
+        "wPct": 0.027777777777777776,
+        "hPct": 0.0036917397323488694
+      },
+      {
+        "targetId": "mypage-login",
+        "label": "ギガチャージ",
+        "x": 389,
+        "y": 552,
+        "width": 183,
+        "height": 62,
+        "xPct": 0.2704535590277778,
+        "yPct": 0.050989270881402864,
+        "wPct": 0.126953125,
+        "hPct": 0.005722196585140747
+      },
+      {
+        "targetId": "products-list",
+        "label": "商品ラインナップはこちら",
+        "x": 596,
+        "y": 2126,
+        "width": 248,
+        "height": 52,
+        "xPct": 0.41388888888888886,
+        "yPct": 0.19621596677434242,
+        "wPct": 0.17222222222222222,
+        "hPct": 0.00479926165205353
+      },
+      {
+        "targetId": "products-list-cat-8",
+        "label": "詳細を見る",
+        "x": 138,
+        "y": 4177,
+        "width": 524,
+        "height": 52,
+        "xPct": 0.09583333333333334,
+        "yPct": 0.3854868481772035,
+        "wPct": 0.3638888888888889,
+        "hPct": 0.00479926165205353
+      },
+      {
+        "targetId": "products-list-cat-9",
+        "label": "詳細を見る",
+        "x": 778,
+        "y": 4177,
+        "width": 524,
+        "height": 52,
+        "xPct": 0.5402777777777777,
+        "yPct": 0.3854868481772035,
+        "wPct": 0.3638888888888889,
+        "hPct": 0.00479926165205353
+      },
+      {
+        "targetId": "products-detail-294",
+        "label": "国内Wi-Fi端末（M4）とデータセット販売 5GB/30日 5GB / 30日間 ￥7,491 税込",
+        "x": 161,
+        "y": 4593,
+        "width": 230,
+        "height": 340,
+        "xPct": 0.11180555555555556,
+        "yPct": 0.42388094139363175,
+        "wPct": 0.1597222222222222,
+        "hPct": 0.03137978772496539
+      },
+      {
+        "targetId": "products-detail-318",
+        "label": "Wi-Fi データチャージ 100GB/365日 100GB / 365日間 ￥6,600 税込",
+        "x": 457,
+        "y": 4593,
+        "width": 230,
+        "height": 340,
+        "xPct": 0.3173611111111111,
+        "yPct": 0.42388094139363175,
+        "wPct": 0.1597222222222222,
+        "hPct": 0.03137978772496539
+      },
+      {
+        "targetId": "products-detail-254",
+        "label": "海外＋国内対応Wi-Fi端末（M3C）とデータセット販売 600GB/365日 600GB / 365日...",
+        "x": 753,
+        "y": 4593,
+        "width": 230,
+        "height": 340,
+        "xPct": 0.5229166666666667,
+        "yPct": 0.42388094139363175,
+        "wPct": 0.1597222222222222,
+        "hPct": 0.03137978772496539
+      },
+      {
+        "targetId": "products-list",
+        "label": "製品を見る",
+        "x": 744,
+        "y": 7819,
+        "width": 203,
+        "height": 64,
+        "xPct": 0.5166666666666667,
+        "yPct": 0.7216010036917397,
+        "wPct": 0.14097222222222222,
+        "hPct": 0.005906783571758191
+      },
+      {
+        "targetId": "help-support-countries",
+        "label": "対象国一覧",
+        "x": 963,
+        "y": 7819,
+        "width": 207,
+        "height": 64,
+        "xPct": 0.66875,
+        "yPct": 0.7216010036917397,
+        "wPct": 0.14375,
+        "hPct": 0.005906783571758191
+      },
+      {
+        "targetId": "products-list-cat-8",
+        "label": "国内専用Wi-Fi一覧",
+        "x": 424,
+        "y": 10533,
+        "width": 102,
+        "height": 17,
+        "xPct": 0.29444444444444445,
+        "yPct": 0.9720841024457776,
+        "wPct": 0.07112630208333333,
+        "hPct": 0.0015689893862482695
+      },
+      {
+        "targetId": "products-list-cat-9",
+        "label": "海外対応Wi-Fi一覧",
+        "x": 424,
+        "y": 10569,
+        "width": 102,
+        "height": 17,
+        "xPct": 0.29444444444444445,
+        "yPct": 0.9754066682048915,
+        "wPct": 0.07112630208333333,
+        "hPct": 0.0015689893862482695
+      },
+      {
+        "targetId": "mypage-login",
+        "label": "ギガチャージ",
+        "x": 424,
+        "y": 10605,
+        "width": 72,
+        "height": 17,
+        "xPct": 0.29444444444444445,
+        "yPct": 0.9787292339640056,
+        "wPct": 0.05,
+        "hPct": 0.0015689893862482695
+      },
+      {
+        "targetId": "guide",
+        "label": "ギガチャージの方法",
+        "x": 744,
+        "y": 10533,
+        "width": 108,
+        "height": 17,
+        "xPct": 0.5166666666666667,
+        "yPct": 0.9720841024457776,
+        "wPct": 0.075,
+        "hPct": 0.0015689893862482695
+      },
+      {
+        "targetId": "guide",
+        "label": "ギガチャージの仕組み",
+        "x": 744,
+        "y": 10569,
+        "width": 120,
+        "height": 17,
+        "xPct": 0.5166666666666667,
+        "yPct": 0.9754066682048915,
+        "wPct": 0.08333333333333333,
+        "hPct": 0.0015689893862482695
+      },
+      {
+        "targetId": "guide",
+        "label": "支払いについて",
+        "x": 744,
+        "y": 10605,
+        "width": 84,
+        "height": 17,
+        "xPct": 0.5166666666666667,
+        "yPct": 0.9787292339640056,
+        "wPct": 0.058333333333333334,
+        "hPct": 0.0015689893862482695
+      },
+      {
+        "targetId": "guide",
+        "label": "配送について",
+        "x": 744,
+        "y": 10641,
+        "width": 72,
+        "height": 17,
+        "xPct": 0.5166666666666667,
+        "yPct": 0.9820517997231195,
+        "wPct": 0.05,
+        "hPct": 0.0015689893862482695
+      },
+      {
+        "targetId": "help-about",
+        "label": "GoodWi-Fiについて",
+        "x": 1064,
+        "y": 10533,
+        "width": 110,
+        "height": 17,
+        "xPct": 0.7388888888888889,
+        "yPct": 0.9720841024457776,
+        "wPct": 0.07609592013888888,
+        "hPct": 0.0015689893862482695
+      },
+      {
+        "targetId": "help-support-countries",
+        "label": "対応国一覧",
+        "x": 1064,
+        "y": 10569,
+        "width": 60,
+        "height": 17,
+        "xPct": 0.7388888888888889,
+        "yPct": 0.9754066682048915,
+        "wPct": 0.041666666666666664,
+        "hPct": 0.0015689893862482695
+      },
+      {
+        "targetId": "about-us",
+        "label": "会社概要",
+        "x": 1064,
+        "y": 10605,
+        "width": 48,
+        "height": 17,
+        "xPct": 0.7388888888888889,
+        "yPct": 0.9787292339640056,
+        "wPct": 0.03333333333333333,
+        "hPct": 0.0015689893862482695
+      },
+      {
+        "targetId": "contact",
+        "label": "お問い合わせ",
+        "x": 1064,
+        "y": 10641,
+        "width": 72,
+        "height": 17,
+        "xPct": 0.7388888888888889,
+        "yPct": 0.9820517997231195,
+        "wPct": 0.05,
+        "hPct": 0.0015689893862482695
+      },
+      {
+        "targetId": "legal",
+        "label": "特定商取引法に基づく表記",
+        "x": 558,
+        "y": 10757,
+        "width": 120,
+        "height": 15,
+        "xPct": 0.3875,
+        "yPct": 0.9927578449469312,
+        "wPct": 0.08333333333333333,
+        "hPct": 0.0013844023996308261
+      },
+      {
+        "targetId": "privacy-policy",
+        "label": "プライバシーポリシー",
+        "x": 710,
+        "y": 10757,
+        "width": 100,
+        "height": 15,
+        "xPct": 0.4930555555555556,
+        "yPct": 0.9927578449469312,
+        "wPct": 0.06944444444444445,
+        "hPct": 0.0013844023996308261
+      },
+      {
+        "targetId": "terms-of-service",
+        "label": "利用規約",
+        "x": 842,
+        "y": 10757,
+        "width": 40,
+        "height": 15,
+        "xPct": 0.5847222222222223,
+        "yPct": 0.9927578449469312,
+        "wPct": 0.027777777777777776,
+        "hPct": 0.0013844023996308261
+      },
+      {
+        "targetId": "products-list-cat-8",
+        "label": "国内Wi-Fi",
+        "x": 396,
+        "y": 63,
+        "width": 198,
+        "height": 40,
+        "xPct": 0.27489149305555555,
+        "yPct": 0.005791416705122289,
+        "wPct": 0.1375,
+        "hPct": 0.0036917397323488694
+      },
+      {
+        "targetId": "products-list-cat-9",
+        "label": "国内＋海外対応Wi-Fi",
+        "x": 396,
+        "y": 103,
+        "width": 198,
+        "height": 40,
+        "xPct": 0.27489149305555555,
+        "yPct": 0.009483156437471158,
+        "wPct": 0.1375,
+        "hPct": 0.0036917397323488694
+      },
+      {
+        "targetId": "guide",
+        "label": "ギガチャージの方法",
+        "x": 631,
+        "y": 63,
+        "width": 198,
+        "height": 40,
+        "xPct": 0.4384223090277778,
+        "yPct": 0.005791416705122289,
+        "wPct": 0.1375,
+        "hPct": 0.0036917397323488694
+      },
+      {
+        "targetId": "guide",
+        "label": "ギガチャージの仕組み",
+        "x": 631,
+        "y": 103,
+        "width": 198,
+        "height": 40,
+        "xPct": 0.4384223090277778,
+        "yPct": 0.009483156437471158,
+        "wPct": 0.1375,
+        "hPct": 0.0036917397323488694
+      },
+      {
+        "targetId": "guide",
+        "label": "支払いについて",
+        "x": 631,
+        "y": 143,
+        "width": 198,
+        "height": 40,
+        "xPct": 0.4384223090277778,
+        "yPct": 0.013174896169820028,
+        "wPct": 0.1375,
+        "hPct": 0.0036917397323488694
+      },
+      {
+        "targetId": "guide",
+        "label": "配送について",
+        "x": 631,
+        "y": 183,
+        "width": 198,
+        "height": 40,
+        "xPct": 0.4384223090277778,
+        "yPct": 0.016866635902168896,
+        "wPct": 0.1375,
+        "hPct": 0.0036917397323488694
+      },
+      {
+        "targetId": "products-list-cat-1002",
+        "label": "国内ギガチャージ",
+        "x": 851,
+        "y": 63,
+        "width": 198,
+        "height": 40,
+        "xPct": 0.5912000868055556,
+        "yPct": 0.005791416705122289,
+        "wPct": 0.1375,
+        "hPct": 0.0036917397323488694
+      },
+      {
+        "targetId": "recharge-international",
+        "label": "海外ギガチャージ",
+        "x": 851,
+        "y": 103,
+        "width": 198,
+        "height": 40,
+        "xPct": 0.5912000868055556,
+        "yPct": 0.009483156437471158,
+        "wPct": 0.1375,
+        "hPct": 0.0036917397323488694
+      }
+    ]
+  },
+  {
+    "id": "help-about",
+    "url": "/help/about",
+    "label": "GoodWi-Fi について",
+    "filename": "help-about.png",
+    "hotspots": []
+  },
+  {
+    "id": "guide",
+    "url": "/guide",
+    "label": "ご利用ガイド",
+    "filename": "guide.png",
+    "hotspots": []
+  },
+  {
+    "id": "faq",
+    "url": "/faq",
+    "label": "よくあるご質問",
+    "filename": "faq.png",
+    "hotspots": []
+  },
+  {
+    "id": "products-list",
+    "url": "/products/list",
+    "label": "GoodWi-fi SHOP / 全商品",
+    "filename": "products-list.png",
+    "hotspots": []
+  },
+  {
+    "id": "products-list-cat-8",
+    "url": "/products/list?category_id=8",
+    "label": "国内専用Wi-Fiプラン（※海外利用不可）",
+    "filename": "products-list-cat-8.png",
+    "hotspots": []
+  },
+  {
+    "id": "products-detail-294",
+    "url": "/products/detail/294",
+    "label": "国内専用モデル 5GB / 30日間\n                        ※海外利用不可",
+    "filename": "products-detail-294.png",
+    "hotspots": []
+  },
+  {
+    "id": "products-detail-254",
+    "url": "/products/detail/254",
+    "label": "世界対応モデル 600GB / 365日間",
+    "filename": "products-detail-254.png",
+    "hotspots": []
+  },
+  {
+    "id": "help-support-countries",
+    "url": "/help/support/countries",
+    "label": "対応国・地域一覧",
+    "filename": "help-support-countries.png",
+    "hotspots": []
+  },
+  {
+    "id": "about-us",
+    "url": "/about-us",
+    "label": "会社概要",
+    "filename": "about-us.png",
+    "hotspots": []
+  },
+  {
+    "id": "legal",
+    "url": "/legal",
+    "label": "特定商取引法に基づく表記",
+    "filename": "legal.png",
+    "hotspots": []
+  },
+  {
+    "id": "privacy-policy",
+    "url": "/privacy-policy",
+    "label": "プライバシーポリシー",
+    "filename": "privacy-policy.png",
+    "hotspots": []
+  },
+  {
+    "id": "terms-of-service",
+    "url": "/terms-of-service",
+    "label": "利用規約",
+    "filename": "terms-of-service.png",
+    "hotspots": []
+  },
+  {
+    "id": "products-list-cat-1002",
+    "url": "/products/list?category_id=1002",
+    "label": "国内ギガチャージデータプラン",
+    "filename": "products-list-cat-1002.png",
+    "hotspots": []
+  },
+  {
+    "id": "recharge-international",
+    "url": "/recharge/international",
+    "label": "海外ギガチャージグローバルプラン",
+    "filename": "recharge-international.png",
+    "hotspots": []
+  }
+]
