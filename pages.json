@@ -3,7 +3,7 @@
     "id": "home",
     "url": "/",
     "label": "ホーム (Home)",
-    "filename": "home-desktop.png",
+    "filename": "home-desktop.webp",
     "hotspots": [
       {
         "targetId": "help-about",
@@ -443,98 +443,98 @@
     "id": "help-about",
     "url": "/help/about",
     "label": "GoodWi-Fi について",
-    "filename": "help-about.png",
+    "filename": "help-about.webp",
     "hotspots": []
   },
   {
     "id": "guide",
     "url": "/guide",
     "label": "ご利用ガイド",
-    "filename": "guide.png",
+    "filename": "guide.webp",
     "hotspots": []
   },
   {
     "id": "faq",
     "url": "/faq",
     "label": "よくあるご質問",
-    "filename": "faq.png",
+    "filename": "faq.webp",
     "hotspots": []
   },
   {
     "id": "products-list",
     "url": "/products/list",
     "label": "GoodWi-fi SHOP / 全商品",
-    "filename": "products-list.png",
+    "filename": "products-list.webp",
     "hotspots": []
   },
   {
     "id": "products-list-cat-8",
     "url": "/products/list?category_id=8",
     "label": "国内専用Wi-Fiプラン（※海外利用不可）",
-    "filename": "products-list-cat-8.png",
+    "filename": "products-list-cat-8.webp",
     "hotspots": []
   },
   {
     "id": "products-detail-294",
     "url": "/products/detail/294",
     "label": "国内専用モデル 5GB / 30日間\n                        ※海外利用不可",
-    "filename": "products-detail-294.png",
+    "filename": "products-detail-294.webp",
     "hotspots": []
   },
   {
     "id": "products-detail-254",
     "url": "/products/detail/254",
     "label": "世界対応モデル 600GB / 365日間",
-    "filename": "products-detail-254.png",
+    "filename": "products-detail-254.webp",
     "hotspots": []
   },
   {
     "id": "help-support-countries",
     "url": "/help/support/countries",
     "label": "対応国・地域一覧",
-    "filename": "help-support-countries.png",
+    "filename": "help-support-countries.webp",
     "hotspots": []
   },
   {
     "id": "about-us",
     "url": "/about-us",
     "label": "会社概要",
-    "filename": "about-us.png",
+    "filename": "about-us.webp",
     "hotspots": []
   },
   {
     "id": "legal",
     "url": "/legal",
     "label": "特定商取引法に基づく表記",
-    "filename": "legal.png",
+    "filename": "legal.webp",
     "hotspots": []
   },
   {
     "id": "privacy-policy",
     "url": "/privacy-policy",
     "label": "プライバシーポリシー",
-    "filename": "privacy-policy.png",
+    "filename": "privacy-policy.webp",
     "hotspots": []
   },
   {
     "id": "terms-of-service",
     "url": "/terms-of-service",
     "label": "利用規約",
-    "filename": "terms-of-service.png",
+    "filename": "terms-of-service.webp",
     "hotspots": []
   },
   {
     "id": "products-list-cat-1002",
     "url": "/products/list?category_id=1002",
     "label": "国内ギガチャージデータプラン",
-    "filename": "products-list-cat-1002.png",
+    "filename": "products-list-cat-1002.webp",
     "hotspots": []
   },
   {
     "id": "recharge-international",
     "url": "/recharge/international",
     "label": "海外ギガチャージグローバルプラン",
-    "filename": "recharge-international.png",
+    "filename": "recharge-international.webp",
     "hotspots": []
   }
 ]
